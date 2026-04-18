@@ -33,3 +33,8 @@ Use the provided `firestore.rules` file with your Firebase project.
 - Upload parking space photos to Firebase Storage
 - Currency conversion display
 - Offline installable PWA with home screen support
+
+Screenshots :
+
+<img width="486" height="851" alt="Screenshot 2026-04-06 233158" src="https://github.com/user-attachments/assets/4a2226d3-a3fc-483a-b3e5-97c5cd20b67e" />
+
