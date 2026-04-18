@@ -36,5 +36,9 @@ Use the provided `firestore.rules` file with your Firebase project.
 
 Screenshots :
 
-<img width="486" height="851" alt="Screenshot 2026-04-06 233158" src="https://github.com/user-attachments/assets/4a2226d3-a3fc-483a-b3e5-97c5cd20b67e" />
+<img width="506" height="1015" alt="Screenshot 2026-04-15 072435" src="https://github.com/user-attachments/assets/e8fa1298-7676-447f-9b7f-6171b85305dc" />
+<img width="506" height="1015" alt="Screenshot 2026-04-15 072435" src="https://github.com/user-attachments/assets/7cf1b7aa-16e0-419b-8b3e-9f46cd05e764" />
+<img width="512" height="958" alt="Screenshot 2026-04-15 083507" src="https://github.com/user-attachments/assets/78eae9db-bf47-410b-8ebf-5759d7bd8893" />
+<img width="514" height="1029" alt="Screenshot 2026-04-15 083728" src="https://github.com/user-attachments/assets/04309763-ee8b-4a8e-8a29-14cbc00331d2" />
+
 
