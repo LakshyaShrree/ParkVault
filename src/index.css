@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-family: 'Poppins', sans-serif;
+  background-color: #F8FAFC;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #F8FAFC;
+  color: #0F172A;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button, input, select, textarea {
+  font: inherit;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-gradient-app {
+  background: linear-gradient(180deg, #2563EB 0%, #3B82F6 100%);
+}
+
+.container-frame {
+  max-width: 430px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+}
+
+.slide-up {
+  animation: slideUp 0.28s ease-out;
+}
+
+.scale-in {
+  animation: scaleIn 0.24s ease-out;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(24px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { transform: scale(0.92); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* 🔥 PWA CONTAINER FIX */
+body {
+  display: flex;
+  justify-content: center;
+  background: #e5e7eb; /* gray bg like your screenshots */
+}
+
+#root {
+  width: 100%;
+  max-width: 420px;  /* mobile width */
+  min-height: 100vh;
+  background: #f3f4f6;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
